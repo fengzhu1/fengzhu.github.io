@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2020 - Current: Algorithm Engineer
+* 2020 - Current: Algorithm Expert
   * Ant Group
   * Duties included: Search and recommender systems & LLM Agent
 
