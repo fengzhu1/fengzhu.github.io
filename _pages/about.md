@@ -1,5 +1,13 @@
-Dr. Feng Zhu
-======
+---
+permalink: /
+title: "Dr. Feng Zhu"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Algorithm Expert
 
 Ant Group
