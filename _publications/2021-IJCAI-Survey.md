@@ -1,0 +1,13 @@
+---
+title: "Cross-Domain Recommendation: Challenges, Progress, and Prospects"
+collection: publications
+permalink: /publication/2021-IJCAI-Survey
+excerpt: ''
+date: 2021-04
+paperurl: 'https://arxiv.org/pdf/2103.01696.pdf'
+---
+
+To address the long-standing data sparsity problem in recommender systems (RSs), cross-domain recommendation (CDR) has been proposed to leverage
+the relatively richer information from a richer domain to improve the recommendation performance in a sparser domain. Although CDR has been extensively studied in recent years, there is a lack of a systematic review of the existing CDR approaches. To fill this gap, in this paper, we provide a comprehensive review of existing CDR approaches, including challenges, research progress, and prospects. Specifically, we first summarize existing CDR approaches into four types, including single-target CDR, multi-domain recommendation, dual-target CDR, and multi-target CDR. We then present the definitions and challenges of these CDR approaches. Next, we propose a full-view categorization and new taxonomies on these approaches and report their research progress in detail. In the end, we share several promising prospects in CDR.
+
+[Download paper here](https://arxiv.org/pdf/2103.01696.pdf)
