@@ -1,5 +1,5 @@
 ---
-title: "IJCAI 2021: Cross-Domain Recommendation: Challenges, Progress, and Prospects"
+title: "IJCAI-2021: Cross-Domain Recommendation: Challenges, Progress, and Prospects"
 collection: publications
 permalink: /publication/2021-IJCAI-Survey
 excerpt: ''
