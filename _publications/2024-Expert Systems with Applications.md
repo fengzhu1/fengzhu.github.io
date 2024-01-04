@@ -1,0 +1,11 @@
+---
+title: "A distribution-free method for probabilistic prediction"
+collection: publications
+permalink: /publication/2024-DCMT
+excerpt: ''
+date: 2024-03-01
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0957417423018985'
+---
+Machine learning techniques have been widely used and are mostly performed by predicting point estimation. Nevertheless, there are various scenarios that require more information beyond only point estimation. Probabilistic prediction is a typical research topic that provides probability distribution while predicting, which addressed with much attention recently. Most of the previous works make an assumption on the probabilistic distribution to a certain extent, which may lead to potential errors in the subsequent decision-making procedure. In this paper, we propose a distribution-free method for regression problems on real-value response under the probabilistic prediction framework and present an effective boosting-based method to perform the training process. Moreover, we introduce a further improved method to accomplish an unbiased mean estimation of the target distribution.
+
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0957417423018985)
