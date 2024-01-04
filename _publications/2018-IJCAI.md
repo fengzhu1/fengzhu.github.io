@@ -1,7 +1,7 @@
 ---
 title: "A deep framework for cross-domain and cross-system recommendations"
 collection: publications
-permalink: /publication/2018-CDR
+permalink: /publication/2018-IJCAI
 excerpt: ''
 venue: IJCAI
 date: 2020/9/14
