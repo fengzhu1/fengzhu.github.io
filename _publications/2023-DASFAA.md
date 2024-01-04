@@ -1,8 +1,9 @@
 ---
-title: "DASFAA-2023: AntTune: An Efficient Distributed Hyperparameter Optimization System for Large-Scale Data"
+title: "AntTune: An Efficient Distributed Hyperparameter Optimization System for Large-Scale Data"
 collection: publications
 permalink: /publication/2023-DASFAA
 excerpt: ''
+venue: DASFAA 2023
 date: 2023-04-14
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-30678-5_35'
 ---
