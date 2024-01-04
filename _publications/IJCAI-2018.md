@@ -1,0 +1,12 @@
+---
+title: "A deep framework for cross-domain and cross-system recommendations"
+collection: publications
+permalink: /publication/2018-CDR
+excerpt: ''
+venue: IJCAI
+date: 2020/9/14
+paperurl: 'https://arxiv.org/ftp/arxiv/papers/2009/2009.06215.pdf'
+---
+
+Cross-Domain Recommendation (CDR) and Cross-System Recommendations (CSR) are two of the promising solutions to address the long-standing data sparsity problem in recommender systems. They leverage the relatively richer information, e.g., ratings, from the source domain or system to improve the recommendation accuracy in the target domain or system. Therefore, finding an accurate mapping of the latent factors across domains or systems is crucial to enhancing recommendation accuracy. However, this is a very challenging task because of the complex relationships between the latent factors of the source and target domains or systems. To this end, in this paper, we propose a Deep framework for both Cross-Domain and Cross-System Recommendations, called DCDCSR, based on Matrix Factorization (MF) models and a fully connected Deep Neural Network (DNN). Specifically, DCDCSR first employs the MF models to generate user and item latent factors and then employs the DNN to map the latent factors across domains or systems. More importantly, we take into account the rating sparsity degrees of individual users and items in different domains or systems and use them to guide the DNN training process for utilizing the rating data more effectively. Extensive experiments conducted on three real-world datasets demonstrate that DCDCSR framework outperforms the state-of-the-art CDR and CSR approaches in terms of recommendation accuracy.
+[Download paper here](https://arxiv.org/ftp/arxiv/papers/2009/2009.06215.pdf)
