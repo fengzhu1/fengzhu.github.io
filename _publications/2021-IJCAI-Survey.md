@@ -1,8 +1,9 @@
 ---
-title: "IJCAI-2021: Cross-Domain Recommendation: Challenges, Progress, and Prospects"
+title: "Cross-Domain Recommendation: Challenges, Progress, and Prospects"
 collection: publications
 permalink: /publication/2021-IJCAI-Survey
 excerpt: ''
+venue: 'IJCAI 2021'
 date: 2021-04-03
 paperurl: 'https://arxiv.org/pdf/2103.01696.pdf'
 ---
