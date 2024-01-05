@@ -1,5 +1,5 @@
 ---
-title: "Cross-Domain Recommendation: Challenges, Progress, and Prospects"
+title: "A graphical and attentional framework for dual-target cross-domain recommendation"
 collection: publications
 permalink: /publication/2020-IJCAI
 excerpt: ''
