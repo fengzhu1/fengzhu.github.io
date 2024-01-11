@@ -33,7 +33,7 @@ News!
 
 Short Biography
 ------
-He received the MEng degree from Soochow University, P.R. China, in 2016 (his supervisors were A/Prof. Guanfeng Liu and Prof. Xiaofang Zhou); and the PhD degree in Computer Science from Macquarie University, Australia, in 2020 (his supervisors were A/Prof. Guanfeng Liu and Prof. Yan Wang). He is currently a senior algorithm engineer at Ant Group, Hangzhou, P.R. China. His research interests include social computing, cross-domain recommender systems, and machine learning.
+He received a PhD degree in Computer Science from Macquarie University, Australia, in 2020 (supervised by Prof. Yan Wang) and an MEng degree from Soochow University, P.R. China, in 2016 (supervised by A/Prof. Guanfeng Liu and Prof. Xiaofang Zhou). He is currently an algorithm expert at Ant Group, Hangzhou, P.R. China. His research interests include social computing, cross-domain recommender systems, and machine learning.
 
 Honors and Awards
 ------
@@ -45,7 +45,7 @@ Honors and Awards
 
 * Excellent Graduated Postgraduate Student, Soochow University (China), 2016.
 
-* National Scholarship for Postgraduate Students, Chinese Government, 2015.
+* National Scholarship for Postgraduate Students, The Chinese Ministry of Education, 2015.
 
 Professional Services
 ------
