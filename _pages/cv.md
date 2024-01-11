@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ------
-* M.S. in Computer Science and Technology, Soochow University(China), 2016
-* Ph.D in Computer Science, Macquarie University(Australia), 2020
+* Ph.D in Computer Science, Macquarie University(Australia), 2017-2020
+* M.S. in Computer Science and Technology, Soochow University(China), 2013-2016
 
 Work experience
 ------
