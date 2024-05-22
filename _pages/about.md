@@ -19,7 +19,7 @@ Email: zhufeng.zhu@antgroup.com or feng.zhu3@hdr.mq.edu.au
 
 News!
 ------
-* May 2024. Our CIKM-2019 paper "DTCDR: A Framework For Dual-Target Cross-Domain Recommendation" has been chosen as one of the Most Influential IJCAI Papers in 2019.(see https://www.paperdigest.org/2024/05/most-influential-cikm-papers-2024-05/)
+* May 2024. Our CIKM-2019 paper "DTCDR: A Framework For Dual-Target Cross-Domain Recommendation" has been chosen as one of the Most Influential CIKM Papers in 2019.(see https://www.paperdigest.org/2024/05/most-influential-cikm-papers-2024-05/)
 
 * May 2024. Our CDR survey paper "Cross-Domain Recommendation: Challenges, Progress, and Prospects" has been chosen as one of the Most Influential IJCAI Papers in 2021. (see https://www.paperdigest.org/2024/05/most-influential-ijcai-papers-2024-05/)
 
