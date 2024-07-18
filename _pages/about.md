@@ -35,7 +35,7 @@ News!
 
 Short Biography
 ------
-He received a PhD degree in Computer Science from Macquarie University, Australia, in 2020 (supervised by Prof. Yan Wang) and an MEng degree from Soochow University, P.R. China, in 2016 (supervised by A/Prof. Guanfeng Liu and Prof. Xiaofang Zhou). He is currently an algorithm expert at Ant Group, Hangzhou, P.R. China. His research interests include social computing, cross-domain recommender systems, and machine learning.
+Dr. Feng Zhu works as an algorithm expert at Ant Group, Hangzhou, P.R. China. He received a PhD degree in Computer Science from Macquarie University, Australia, in 2020 (supervised by Prof. Yan Wang) and an MEng degree from Soochow University, P.R. China, in 2016 (supervised by A/Prof. Guanfeng Liu and Prof. Xiaofang Zhou). His research interests include social computing, recommender systems, machine learning, and large language models. He has two conference papers (as the first author) recognized as the Most Influential Papers in Paper Digest, including IJCAI 2021 and CIKM 2019. He has been a PC member for many top conferences, such as AAAI, IJCAI, KDD, WWW, and MM.
 
 Honors and Awards
 ------
@@ -51,6 +51,6 @@ Honors and Awards
 
 Professional Services
 ------
-* Conference Reviewer: ADC 2017, SOCA 2017, RecSys 2017-20, ICWS 2021, TheWebConf2021-23, SIGKDD 2022-23, IJCAI 2022-23, ACM MM 2023.
+* Conference Reviewer: ADC 2017, SOCA 2017, RecSys 2017-20, ICWS 2021, AAAI 2021, TheWebConf2021-23, SIGKDD 2022-23, IJCAI 2022-23, ACM MM 2023.
 
 * Journal Reviewer: TOIS, TIST, TKDD.
