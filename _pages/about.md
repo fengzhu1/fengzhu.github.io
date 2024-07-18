@@ -39,7 +39,9 @@ Dr. Feng Zhu works as an algorithm expert at Ant Group, Hangzhou, P.R. China. He
 
 Honors and Awards
 ------
-* Most Influential IJCAI Papers: "Cross-Domain Recommendation: Challenges, Progress, and Prospects".
+* Most Influential CIKM Papers (CIKM 2019): "DTCDR: A Framework For Dual-Target Cross-Domain Recommendation".
+  
+* Most Influential IJCAI Papers (IJCAI 2021): "Cross-Domain Recommendation: Challenges, Progress, and Prospects".
 
 * The Vice-Chancellor’s Commendation for Academic Excellence, Macquarie University (Australia), 2020.
 
