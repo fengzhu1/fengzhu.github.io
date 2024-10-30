@@ -18,7 +18,7 @@ Work experience
 ------
 * 2022 - Current: Algorithm Expert
   * Ant Group
-  * Duties included: Search and recommender systems & LLM Agent
+  * Duties included: Search and recommender systems & LLM-Based Agent & LLM Training 
 
 * 2020 - 2021: Senior Algorithm Engineer
   * Ant Group
