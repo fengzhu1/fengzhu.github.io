@@ -21,6 +21,7 @@ Email: zhufeng.zhu@antgroup.com or feng.zhu3@hdr.mq.edu.au
 
 News!
 ------
+* May 2024. One paper has been accepted by ACM MM 2024.
 * May 2024. Our CIKM-2019 paper "DTCDR: A Framework For Dual-Target Cross-Domain Recommendation" has been chosen as one of the Most Influential CIKM Papers in 2019.(see https://www.paperdigest.org/2024/05/most-influential-cikm-papers-2024-05/)
 
 * May 2024. Our CDR survey paper "Cross-Domain Recommendation: Challenges, Progress, and Prospects" has been chosen as one of the Most Influential IJCAI Papers in 2021. (see https://www.paperdigest.org/2024/05/most-influential-ijcai-papers-2024-05/)
@@ -55,6 +56,6 @@ Honors and Awards
 
 Professional Services
 ------
-* Conference Reviewer: ADC 2017, SOCA 2017, RecSys 2017-20, ICWS 2021, AAAI 2021, TheWebConf2021-23, SIGKDD 2022-23, IJCAI 2022-23, ACM MM 2023.
+* Conference Reviewer: ADC 2017, SOCA 2017, RecSys 2017-20, ICWS 2021, AAAI 2021, TheWebConf2021-24, SIGKDD 22-23, IJCAI 2022-23, ACM MM 23-24.
 
 * Journal Reviewer: TOIS, TIST, TKDD.
